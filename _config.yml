@@ -27,6 +27,7 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
+url: "https://blueshirt.dev"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
