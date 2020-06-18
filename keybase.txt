@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/blue_shirt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blueshirt.dev
+  * I am blue_shirt (https://keybase.io/blue_shirt) on keybase.
+  * I have a public key ASAcgSl-Mj0uB8LPXL5Y615PwLFZIACbjZGdgyJPjOohbAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120df8d271a8321b0a4bb39f4c0c2c11622c0636e0c273489e16eb273e6d28a35eb0a",
+      "host": "keybase.io",
+      "kid": "01201c81297e323d2e07c2cf5cbe58eb5e4fc0b15920009b8d919d83224f8cea216c0a",
+      "uid": "551b9f69fb4380547df030142c4af419",
+      "username": "blue_shirt"
+    },
+    "merkle_root": {
+      "ctime": 1592448825,
+      "hash": "549bc97b3e13970b5b3b4eef511febb3812b8c27f2f99af20605e3ac28d0e9e3ded5cdb5701b14a41914454bcf59c13f4ed17c15fe5b2468c8c12ca62a0a93b2",
+      "hash_meta": "aa3a9df5a618f6c309ab5255cf8f628df2b8c6a2facb07a11f5330caaf29fe1a",
+      "seqno": 16701562
+    },
+    "service": {
+      "entropy": "vkWCdEy5aLLpKKPoDxY3jUh/",
+      "hostname": "blueshirt.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.1"
+  },
+  "ctime": 1592448854,
+  "expire_in": 504576000,
+  "prev": "e157b6a4b56630a94bb0f003310c667fee5386fed5a1b4f5e000b6db39ba640a",
+  "seqno": 45,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHIEpfjI9LgfCz1y+WOteT8CxWSAAm42RnYMiT4zqIWwKp3BheWxvYWTESpcCLcQg4Ve2pLVmMKlLsPADMQxmf+5Thv7VobT14AC22zm6ZArEINtGvw5z93VEdT8dnh1Zia53M7N4giNif4BA7sqLrYxNAgHCo3NpZ8RAZ/SJCcNp2ci0FUD9h+gBbY6MWMaRLueZ+L6FJNxdY3ZL8iF+4ja5eHBkzR246mOt5Mujx0j0jLOSKIfIFtRuB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPbYUtF6dJo8ldeM735/KKgF9pd3JbvaLwrwidxxR6ggo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/blue_shirt
+
+==================================================================
