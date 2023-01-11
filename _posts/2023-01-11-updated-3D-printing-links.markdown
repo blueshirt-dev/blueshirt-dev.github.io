@@ -15,7 +15,7 @@ This is the software that is used to translate your 3D models into something tha
 ## Klipper
 [https://www.klipper3d.org/](https://www.klipper3d.org/)
 
-Alternative 3d printer firmware that takes the processing and lets a more powerful board like a Raspberry Pi or computer figure out scheduling and makes the maind board just a fast controller. It has so so many quality of life features that if you understand how to flash it and are comfortable with that process you should. Someone tested klipper with common ish machines and that's this [video](link-TBD)
+Alternative 3d printer firmware that takes the processing and lets a more powerful board like a Raspberry Pi or computer figure out scheduling and makes the maind board just a fast controller. It has so so many quality of life features that if you understand how to flash it and are comfortable with that process you should. Someone tested klipper with common ish machines and that's this [video](https://www.youtube.com/watch?v=Ae2G7hl_pZc)
 
 ## TeachnigTech Github page
 [https://teachingtechyt.github.io/calibration.html](https://teachingtechyt.github.io/calibration.html)
