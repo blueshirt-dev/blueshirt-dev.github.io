@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Updated 3D printing resources"
-date:   2023-01-11 21:16:12 -0700
+date:   2023-01-11 01:16:12 -0700
 categories: 3D-Printing
 ---
 
