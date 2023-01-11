@@ -5,7 +5,7 @@ date:   2023-01-11 01:16:12 -0700
 categories: 3D-Printing
 ---
 
-Time has passed and with that common convention has changed and people have experimented with new methods or made new clones. With that here's some new links that are useful. These new links don't mean the old links aren't useful still, superslicer's quality guide is still a go to for me. 
+Time has passed and with that common convention has changed and people have experimented with new methods or made new clones. With that here's some new links that are useful. These new links don't mean the old links aren't useful still, Simplify3D's quality guide is still a go to for me. 
 
 ## Printables
 [https://www.printables.com/](https://www.printables.com/)
