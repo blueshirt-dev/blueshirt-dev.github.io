@@ -7,6 +7,10 @@ categories: 3D-Printing
 
 Time has passed and with that common convention has changed and people have experimented with new methods or made new clones. With that here's some new links that are useful. These new links don't mean the old links aren't useful still, superslicer's quality guide is still a go to for me. 
 
+## Printables
+[https://www.printables.com/](https://www.printables.com/)
+Run by prusa this is a great resource for 3d printable models and files. If you like designing models has ways to earn free filament based on how used your designs are. There's contests and a very good selection of things to print. 
+
 ## SuperSlicer
 [https://github.com/supermerill/SuperSlicer](https://github.com/supermerill/SuperSlicer)
 
