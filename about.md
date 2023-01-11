@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+Small personal site for blueshirt. Very rarely used. Mostly just here because I wanted a website and I wanted to play with github pages, dns, and email. Creating this site has served that purpose.
+
+
+Leaving default stuff cause ehh. 
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
