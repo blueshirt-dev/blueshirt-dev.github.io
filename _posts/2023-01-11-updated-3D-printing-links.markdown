@@ -9,6 +9,7 @@ Time has passed and with that common convention has changed and people have expe
 
 ## Printables
 [https://www.printables.com/](https://www.printables.com/)
+
 Run by prusa this is a great resource for 3d printable models and files. If you like designing models has ways to earn free filament based on how used your designs are. There's contests and a very good selection of things to print. 
 
 ## SuperSlicer
