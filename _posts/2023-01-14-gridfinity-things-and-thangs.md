@@ -20,7 +20,7 @@ Now with the base of your system figured out, it's time to figure out
 
 Modules are the printed pieces that hold the items you want to display and store. I recently found out about 5S design (Sort, Set in order, Shine, Standardize, Sustain) and I think that works really well for the gridfinity system. As you've already decided what you want and where you want to use gridfinity, it's time to sort the items. I personally use broad themes at first and then determine if I want to make individual modules for the pieces in that theme or just put them all together cause close enough. 
 
-Personal warning here, do not color code your gridfinity system unless you plan to always have those colors. Would it look nicer color coded, sure, however if you don't have that color will it stop your progress?
+Personal warning here, do **not** color code your gridfinity system unless you plan to always have those colors. Would it look nicer color coded, sure, however if you don't have that color will it stop your progress? Also, what if the meta organization strategy changes and now all the blue containers are mixed with other colored containers since that works better for you.
 
 Now that you have a theme for the location it's time to sort and group. Do you have a lot of oddly shaped things that are relatively the same then I just use storage boxes by [DatBuschi on printables](https://www.printables.com/model/175692-gridfinity-storage-boxes) or big storage boxes also by [DatBuschi on printables](https://www.printables.com/model/176917-gridfinity-big-storage-boxes). Do you have a lot of small parts or things that would be easier to access if the bottom sloped up, then I use the divider bins by [ZackFreedman on thangs](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Divider%20Bins-60721)(and elsewhere). That covers like 90% of the things that I want to store. Tools for me mostly end up in either big storage boxes or open ended holders by [atucom on printables](https://www.printables.com/model/226527-gridfinity-open-ended-holders). That's like 95% of the things I've printed now and anything else is either specially for the tool like deburring holders or resistor holders or tweezer holders or plier dividers or something custom made for the tool with a few minutes in tinkercad using one of the boxes that'd fit it then filling and making cutouts for the items. 
 
@@ -40,7 +40,7 @@ Started pulling out resistors and bread boards that are great for prototyping th
 
 ![Image of drawers with more organizers printer](https://i.imgur.com/PRr1kX9.jpg "Same drawers, one with more pieces from the original in it to make the original easier to clean")
 
-With those I organized the drawer into broad piles like motors, inputs, outputs, controllers, and everything else. 
+With those I organized the drawer into broad piles like motors, inputs, outputs, controllers, and everything else. The location of items was mostly wherever I had space. There was no thought put into the location of things other than with others like them. 
 
 ![Image of start drawer with general piles of items](https://i.imgur.com/jjozZjI.jpg "Drawer that has multiple piles of vaguley related things")
 
