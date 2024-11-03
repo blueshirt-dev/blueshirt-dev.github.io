@@ -91,23 +91,23 @@ I wrote this since I like 3D printers a lot and come across people that are enco
 I hope this was helpful and informative. Let me know if there's things you'd like more info on or were unclear or whatever it may be. I do hope you find 3D printing to be beneficial to you however you want to use it though. [Gridfinity FTW](https://blueshirt.dev/2023/01/14/gridfinity-things-and-thangs.html)
 
 ### Links
-[TeachingTech Calibration page](https://teachingtechyt.github.io/calibration.html)
-[frame check process](https://teachingtechyt.github.io/calibration.html#frame)
-[octoprint](https://octoprint.org/)
-[PID Autotune](https://teachingtechyt.github.io/calibration.html#pid)
-[Extruder Calibration](https://teachingtechyt.github.io/calibration.html#esteps)
-[First Layer](https://teachingtechyt.github.io/calibration.html#firstlayer)
-[Baseline print](https://teachingtechyt.github.io/calibration.html#baseline)
-[Temperature](https://teachingtechyt.github.io/calibration.html#temp)
-[Retraction](https://teachingtechyt.github.io/calibration.html#retraction)
-[Prusa Slicer](https://www.prusa3d.com/en/page/prusaslicer_424/)
-[Cura](https://ultimaker.com/software/ultimaker-cura/)
-[SuperSlicer](https://github.com/supermerill/SuperSlicer)
-[Bambu Studio](https://bambulab.com/en/download/studio)
-[Orca Slicer](https://github.com/SoftFever/OrcaSlicer)
-[Slicer tuning](https://teachingtechyt.github.io/calibration.html#flow)
-[Printables](https://www.printables.com/)
-[Thingiverse](https://www.thingiverse.com/)
-[Yeggi](https://www.yeggi.com/)
-[Tinkercad](https://www.tinkercad.com/)
+[TeachingTech Calibration page](https://teachingtechyt.github.io/calibration.html)\
+[frame check process](https://teachingtechyt.github.io/calibration.html#frame)\
+[octoprint](https://octoprint.org/)\
+[PID Autotune](https://teachingtechyt.github.io/calibration.html#pid)\
+[Extruder Calibration](https://teachingtechyt.github.io/calibration.html#esteps)\
+[First Layer](https://teachingtechyt.github.io/calibration.html#firstlayer)\
+[Baseline print](https://teachingtechyt.github.io/calibration.html#baseline)\
+[Temperature](https://teachingtechyt.github.io/calibration.html#temp)\
+[Retraction](https://teachingtechyt.github.io/calibration.html#retraction)\
+[Prusa Slicer](https://www.prusa3d.com/en/page/prusaslicer_424/)\
+[Cura](https://ultimaker.com/software/ultimaker-cura/)\
+[SuperSlicer](https://github.com/supermerill/SuperSlicer)\
+[Bambu Studio](https://bambulab.com/en/download/studio)\
+[Orca Slicer](https://github.com/SoftFever/OrcaSlicer)\
+[Slicer tuning](https://teachingtechyt.github.io/calibration.html#flow)\
+[Printables](https://www.printables.com/)\
+[Thingiverse](https://www.thingiverse.com/)\
+[Yeggi](https://www.yeggi.com/)\
+[Tinkercad](https://www.tinkercad.com/)\
 [Gridfinity FTW](https://blueshirt.dev/2023/01/14/gridfinity-things-and-thangs.html)

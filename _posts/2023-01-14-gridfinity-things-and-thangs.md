@@ -75,10 +75,10 @@ I personally really like Gridfinity as it works well with how I think of things 
 All the links I think go to the creators of the pieces I use. It's an open system and an open spec so make and **share** what works for you and if you can help out those whose designs you use. Good luck in your Gridfinite journey and may you items be Grided. 
 
 ### Links
-[Gridfinity](https://www.youtube.com/watch?v=ra_9zU-mnl8)
-[Akio on printables](https://www.printables.com/model/360046-gridfinity-modular-baseplates)
-[Zack Freedman over on Thangs](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Baseplates-60925)
-[DatBuschi on printables](https://www.printables.com/model/175692-gridfinity-storage-boxes)
-[DatBuschi on printables](https://www.printables.com/model/176917-gridfinity-big-storage-boxes)
-[ZackFreedman on thangs](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Divider%20Bins-60721)
+[Gridfinity](https://www.youtube.com/watch?v=ra_9zU-mnl8)\
+[Akio on printables](https://www.printables.com/model/360046-gridfinity-modular-baseplates)\
+[Zack Freedman over on Thangs](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Baseplates-60925)\
+[DatBuschi on printables](https://www.printables.com/model/175692-gridfinity-storage-boxes)\
+[DatBuschi on printables](https://www.printables.com/model/176917-gridfinity-big-storage-boxes)\
+[ZackFreedman on thangs](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Divider%20Bins-60721)\
 [atucom on printables](https://www.printables.com/model/226527-gridfinity-open-ended-holders)

@@ -60,11 +60,11 @@ Am I ridiculous for redoing all of my printed dnd carrying things, yes. Does thi
 Again, I really like gridfinity and think that if you have a 3d printer should give it a try cause it can be what you want it to be. Which, I'm incredibly happy with what I've been able to do because it exists so while I might not be able to contribute modules, what I can do is write about my experience using it. Here's my attempt at giving to the maker community that has been so generous with what they give to others. 
 
 ### Links
-[jbeaudoinii](https://www.thingiverse.com/thing:2538817)
-[MikeyMakesIt on Thingiverse](https://www.thingiverse.com/thing:3383883)
-[Morgul on Thingiverse](https://www.thingiverse.com/thing:1253010)
-[Dice Book by Digital Teacher](https://www.printables.com/model/434170-dice-book)
-[Rugged Gridfinity 5x4 box](https://www.printables.com/model/361829-rugged-gridfinity-box)
-[Lid Insert](https://www.printables.com/model/491142-rugged-gridfinity-box-lid-insert)
-[DatBuschi](https://www.printables.com/model/175692-gridfinity-storage-boxes)
+[jbeaudoinii](https://www.thingiverse.com/thing:2538817)\
+[MikeyMakesIt on Thingiverse](https://www.thingiverse.com/thing:3383883)\
+[Morgul on Thingiverse](https://www.thingiverse.com/thing:1253010)\
+[Dice Book by Digital Teacher](https://www.printables.com/model/434170-dice-book)\
+[Rugged Gridfinity 5x4 box](https://www.printables.com/model/361829-rugged-gridfinity-box)\
+[Lid Insert](https://www.printables.com/model/491142-rugged-gridfinity-box-lid-insert)\
+[DatBuschi](https://www.printables.com/model/175692-gridfinity-storage-boxes)\
 [ZachFreedman](https://thangs.com/designer/models/3d-model/60721)
