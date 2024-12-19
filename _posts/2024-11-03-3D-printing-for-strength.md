@@ -27,7 +27,7 @@ Yeah, it matters, and here's Stefan testing [Infill Patterns](https://www.youtub
 Shells > Infill\
 Extrusion Width > Shells\
 Thinner layer > Thicker layer\
-Temperature, ehh. Cold bad though.\ 
+Temperature, ehh. Cold bad though.\
 Gyroid or Cubic infill pattern.
 
 Untested but my recommendation from Stefan's results, 140% extrusion width, 4-6 shells, 0.15mm layer height, cubic or gyroid infill, and maybe bump temps 10c up. 
