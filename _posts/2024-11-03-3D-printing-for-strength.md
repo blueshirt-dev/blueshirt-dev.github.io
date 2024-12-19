@@ -24,10 +24,10 @@ As we might be realizing now, all of these topics were covered by Stefan, includ
 Yeah, it matters, and here's Stefan testing [Infill Patterns](https://www.youtube.com/watch?v=upELI0HmzHc) to see which works well, specifically in compression. He tested a number of patterns and then rotated the part 90 degrees and tested again to test their strengths in both if it was squished top down or squished from the side. His findings show that gyroid was the same in both, and cubic was the same a gyroid in one and slightly higher in the other direction. Overall, these two were the most consistent with their failures compared to others that had wildly different values. Which, with the real world being not a perfect testing setup, the ones that are consistent are the ones I think are worthwhile. 
 
 ### TLDR;
-Shells > Infill
-Extrusion Width > Shells
-Thinner layer > Thicker layer
-Temperature, ehh. Cold bad though. 
+Shells > Infill\
+Extrusion Width > Shells\
+Thinner layer > Thicker layer\
+Temperature, ehh. Cold bad though.\ 
 Gyroid or Cubic infill pattern.
 
 Untested but my recommendation from Stefan's results, 140% extrusion width, 4-6 shells, 0.15mm layer height, cubic or gyroid infill, and maybe bump temps 10c up. 
@@ -38,4 +38,4 @@ Untested but my recommendation from Stefan's results, 140% extrusion width, 4-6 
 [Extrusion Width](https://www.youtube.com/watch?v=9YaJ0wSKKHA)\
 [Layer Heights](https://www.youtube.com/watch?v=fbSQvJJjw2Q)\
 [Higher Temperatures](https://www.youtube.com/watch?v=M3bwJx8ZkMA)\
-[Infill Patterns](https://www.youtube.com/watch?v=upELI0HmzHc)\
+[Infill Patterns](https://www.youtube.com/watch?v=upELI0HmzHc)

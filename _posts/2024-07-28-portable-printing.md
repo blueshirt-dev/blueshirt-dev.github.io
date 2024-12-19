@@ -45,4 +45,4 @@ At some point get a photo of its current state and include it here.
 [spool holder](https://www.thingiverse.com/thing:2006457)\
 [dual gear extruder upgrade](https://www.amazon.com/Bigtreetech-Extruder-extruder-Ender3pro-Filament/dp/B08D9CNHVN?crid=1ZRGAWP1T4A4K&dib=eyJ2IjoiMSJ9)\
 [spring steel PEI sheet](https://www.amazon.com/FYSETC-Buildplate-160x130mm-6-3x5-1inch-Monoprice/dp/B088YXQRZC?ref_=ast_sto_dp)\
-[Intro to 3D printing tuning steps](https://blueshirt.dev/2024/02/07/Introduction-to-3D-printing.html)\
+[Intro to 3D printing tuning steps](https://blueshirt.dev/2024/02/07/Introduction-to-3D-printing.html)
