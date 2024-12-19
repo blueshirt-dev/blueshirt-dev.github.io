@@ -28,21 +28,21 @@ Overall, it's a pretty nice little machine now. Does it work amazingly, not real
 At some point get a photo of its current state and include it here. 
 
 ### Links 
-[octoprint case](https://www.thingiverse.com/thing:4937533)
-[mainboard mount print](https://www.thingiverse.com/thing:4296248)
-[mpsm 2018 config](https://github.com/Klipper3d/klipper/blob/master/config/printer-monoprice-select-mini-v2-2018.cfg)
-[skr mini e3 v2 config](https://github.com/Klipper3d/klipper/blob/master/config/generic-bigtreetech-skr-mini-e3-v2.0.cfg)
-[Handle](https://www.thingiverse.com/thing:3006746)
-[external z endstop](https://www.thingiverse.com/thing:4173135)
-[no drill rewire side panel](https://www.thingiverse.com/thing:2817319)
-[universal cable chain](https://www.thingiverse.com/thing:1036698)
-[front half side panel](https://www.thingiverse.com/thing:2370329)
-[back half side panel](https://www.thingiverse.com/thing:2451362)
-[side panel for the BTT skr mini e3 v2 board](https://www.printables.com/model/1083477-monoprice-select-mini-skr-side-panel)
-[leveling knob hack](https://www.thingiverse.com/thing:4626595)
-[buck converter to usb](https://www.amazon.com/Converter-DROK-Charging-Regulator-Transformer/dp/B087RHWTJW?crid=3Q8R0BSM03H5L&dib=eyJ2IjoiMSJ9)
-[buck converter case](https://www.printables.com/model/191311-drok-dc-dc-usb-buck-converter-case)
-[spool holder](https://www.thingiverse.com/thing:2006457)
-[dual gear extruder upgrade](https://www.amazon.com/Bigtreetech-Extruder-extruder-Ender3pro-Filament/dp/B08D9CNHVN?crid=1ZRGAWP1T4A4K&dib=eyJ2IjoiMSJ9)
-[spring steel PEI sheet](https://www.amazon.com/FYSETC-Buildplate-160x130mm-6-3x5-1inch-Monoprice/dp/B088YXQRZC?ref_=ast_sto_dp)
-[Intro to 3D printing tuning steps](https://blueshirt.dev/2024/02/07/Introduction-to-3D-printing.html)
+[octoprint case](https://www.thingiverse.com/thing:4937533)\
+[mainboard mount print](https://www.thingiverse.com/thing:4296248)\
+[mpsm 2018 config](https://github.com/Klipper3d/klipper/blob/master/config/printer-monoprice-select-mini-v2-2018.cfg)\
+[skr mini e3 v2 config](https://github.com/Klipper3d/klipper/blob/master/config/generic-bigtreetech-skr-mini-e3-v2.0.cfg)\
+[Handle](https://www.thingiverse.com/thing:3006746)\
+[external z endstop](https://www.thingiverse.com/thing:4173135)\
+[no drill rewire side panel](https://www.thingiverse.com/thing:2817319)\
+[universal cable chain](https://www.thingiverse.com/thing:1036698)\
+[front half side panel](https://www.thingiverse.com/thing:2370329)\
+[back half side panel](https://www.thingiverse.com/thing:2451362)\
+[side panel for the BTT skr mini e3 v2 board](https://www.printables.com/model/1083477-monoprice-select-mini-skr-side-panel)\
+[leveling knob hack](https://www.thingiverse.com/thing:4626595)\
+[buck converter to usb](https://www.amazon.com/Converter-DROK-Charging-Regulator-Transformer/dp/B087RHWTJW?crid=3Q8R0BSM03H5L&dib=eyJ2IjoiMSJ9)\
+[buck converter case](https://www.printables.com/model/191311-drok-dc-dc-usb-buck-converter-case)\
+[spool holder](https://www.thingiverse.com/thing:2006457)\
+[dual gear extruder upgrade](https://www.amazon.com/Bigtreetech-Extruder-extruder-Ender3pro-Filament/dp/B08D9CNHVN?crid=1ZRGAWP1T4A4K&dib=eyJ2IjoiMSJ9)\
+[spring steel PEI sheet](https://www.amazon.com/FYSETC-Buildplate-160x130mm-6-3x5-1inch-Monoprice/dp/B088YXQRZC?ref_=ast_sto_dp)\
+[Intro to 3D printing tuning steps](https://blueshirt.dev/2024/02/07/Introduction-to-3D-printing.html)\

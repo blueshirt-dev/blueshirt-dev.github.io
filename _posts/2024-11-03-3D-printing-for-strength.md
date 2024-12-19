@@ -33,9 +33,9 @@ Gyroid or Cubic infill pattern.
 Untested but my recommendation from Stefan's results, 140% extrusion width, 4-6 shells, 0.15mm layer height, cubic or gyroid infill, and maybe bump temps 10c up. 
 
 ### Links
-[CNC Kitchen on youtube](https://www.youtube.com/@CNCKitchen)
-[Infill Pattern and Shells](https://www.youtube.com/watch?v=AmEaNAwFSfI)
-[Extrusion Width](https://www.youtube.com/watch?v=9YaJ0wSKKHA)
-[Layer Heights](https://www.youtube.com/watch?v=fbSQvJJjw2Q)
-[Higher Temperatures](https://www.youtube.com/watch?v=M3bwJx8ZkMA)
-[Infill Patterns](https://www.youtube.com/watch?v=upELI0HmzHc)
+[CNC Kitchen on youtube](https://www.youtube.com/@CNCKitchen)\
+[Infill Pattern and Shells](https://www.youtube.com/watch?v=AmEaNAwFSfI)\
+[Extrusion Width](https://www.youtube.com/watch?v=9YaJ0wSKKHA)\
+[Layer Heights](https://www.youtube.com/watch?v=fbSQvJJjw2Q)\
+[Higher Temperatures](https://www.youtube.com/watch?v=M3bwJx8ZkMA)\
+[Infill Patterns](https://www.youtube.com/watch?v=upELI0HmzHc)\
